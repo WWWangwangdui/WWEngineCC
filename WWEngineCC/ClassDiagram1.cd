@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="WWEngineCC.Form1">
+    <Position X="25.75" Y="0.5" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>qBBLxioI/iqCxDsRhcmsLFR26pJGWMckMEtbCIMUOIQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.NewProj">
+    <Position X="32.5" Y="0.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACCAAAAAAACCAAACAAAHQAuAAAAUJDgAAAA=</HashCode>
+      <FileName>NewProj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.Program">
+    <Position X="37" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAgiAAAAAAAAAAAAAAAAABAAEAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.PointFConverter">
+    <Position X="39.25" Y="0.75" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAjAAAAAAAAAEAAAAAAAAgAAAAACAAAAIAAAAAAAA=</HashCode>
+      <FileName>PropertyGridItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.SizeFConverter">
+    <Position X="32.5" Y="14.75" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAjAAAAAAAAAEAAAAAAAAgAAAAACAAAAIAAAAAAAA=</HashCode>
+      <FileName>PropertyGridItems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.SplashScreen1">
+    <Position X="46.5" Y="18" Width="3.75" />
+    <NestedTypes>
+      <Enum Name="WWEngineCC.SplashScreen1.SplashScreenCommand" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SplashScreen1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAAAAACAAAACAAAAAEAABAAAAAAAAEA=</HashCode>
+      <FileName>SplashScreen1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.SplitImage">
+    <Position X="47.5" Y="9" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAECAIAAwFQACCIAACAHAGwAsAgAhlAhgBgAA=</HashCode>
+      <FileName>SplitImage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WaitForm1">
+    <Position X="36.75" Y="5.5" Width="3.5" />
+    <NestedTypes>
+      <Enum Name="WWEngineCC.WaitForm1.WaitFormCommand" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WaitForm1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAACAACCAAACAAAAAIAABAAAAAAAACA=</HashCode>
+      <FileName>WaitForm1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWasCtrl">
+    <Position X="47.5" Y="0.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABIADAgBQBAABgAwCAACAAAAaAAhgQAUIAAIACQE=</HashCode>
+      <FileName>WWasCtrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWassetBase">
+    <Position X="0.5" Y="11.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABIBAAAAAgAAAAAgCAAAAAAAEAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>WWassets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.AsBitmap">
+    <Position X="0.5" Y="15.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQABIRAAECAoAAAAMAAAAAAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>WWassets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.AsAnimation">
+    <Position X="0.5" Y="20.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAACAAAAACAABAQgAEAEAgAAAAIAAAAAA=</HashCode>
+      <FileName>WWassets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWassetView">
+    <Position X="8.75" Y="16.5" Width="5.5" />
+    <NestedTypes>
+      <Delegate Name="WWEngineCC.WWassetView.DelShow" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WWassetView.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEACAICACAIAAAAAAUAAFAAIgAAgBAgEAAAA=</HashCode>
+      <FileName>WWassetView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWcamera">
+    <Position X="22.5" Y="16.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAABAQAAAQAEAAAAACAAAAYAA=</HashCode>
+      <FileName>WWcamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWDirector">
+    <Position X="40.5" Y="6" Width="6.5" />
+    <NestedTypes>
+      <Delegate Name="WWEngineCC.WWDirector.LoadSceneInvokeS" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WWDirector.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="WWEngineCC.WWDirector.LoadSceneInvoke" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WWDirector.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BIoQBAaCAgYEIKAAhQAAAPQAgACjAtBxASAAANACBAA=</HashCode>
+      <FileName>WWDirector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWGameWindow">
+    <Position X="20.75" Y="8.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAACAAAAAAAACAAAACAAIAAAgAAAAAAAAgAAA=</HashCode>
+      <FileName>WWGameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWkeyIO">
+    <Position X="36" Y="9" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAgEAAQASACBAIEQAACAAAAqAAAEQBAAAACGAAAA=</HashCode>
+      <FileName>WWkeyIO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWmoduleBase">
+    <Position X="13" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAQIQAAIDAACBAAAAAQAAAAAAEAAAgQACAABAAAgA=</HashCode>
+      <FileName>WWmoduleBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWobject">
+    <Position X="20.75" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AQAARIQAAABAgiBAARAAQEYgAABEAAAgQAiIANAAAwA=</HashCode>
+      <FileName>WWobject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWScript">
+    <Position X="10" Y="6.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ASAAAIQAAACAACAAIAAAAAAAAACEAAAgAAQAABAkAAA=</HashCode>
+      <FileName>WWPluginCC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWScriptBase" BaseTypeListCollapsed="true">
+    <Position X="40.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIQAAAAAACAAAAAAAAAAAAAAAAAgAAAAABAAAAA=</HashCode>
+      <FileName>WWPluginCC.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WWEngineCC.WWPluginCC">
+    <Position X="18.25" Y="16.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>BCAAgAAAAAAAAAAABAAAAgAAAAAIAAAkAAAAEAIAAAA=</HashCode>
+      <FileName>WWPluginCC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWscene">
+    <Position X="32.5" Y="8.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAQSIgBAACAAIQBCAAQAgQAkAAEhAAAEAIEAAAA=</HashCode>
+      <FileName>WWproj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWproj">
+    <Position X="14.75" Y="16.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAABSAAIAAAACIAUAAAEEAFgAAIACAAEBAAA=</HashCode>
+      <FileName>WWproj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWRenderer">
+    <Position X="32.5" Y="17.75" Width="13.75" />
+    <TypeIdentifier>
+      <HashCode>ACAgAgAAAAUAQQAAAAQAAABAEAGDAECggBAAAAAJIAA=</HashCode>
+      <FileName>WWRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.RenderBase">
+    <Position X="13.75" Y="6.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAQAACAAAAQAGAIQABgCEAEAAAABIAAAAAAIBAA=</HashCode>
+      <FileName>WWRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WWEngineCC.WWLine">
+    <Position X="8.75" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgMAgAQCAEAAACCAAAAAAQAQAAAAEACAAAAAAAAAAAA=</HashCode>
+      <FileName>WWRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWRectangle">
+    <Position X="12.25" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgEAgAQCAEAAACCAAAAAAQAQAAAACACAAAgCEAAAAAA=</HashCode>
+      <FileName>WWRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWEllipse">
+    <Position X="15.75" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgkAgAQAAEAAgCCAAIAAAQAAAAAACACAAAgAAAAIAAA=</HashCode>
+      <FileName>WWRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWText">
+    <Position X="19.25" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAQAAIAAACCAAABAAQAAYAQAACCCAAAgAgAAAAA=</HashCode>
+      <FileName>WWRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWBitmap">
+    <Position X="22.75" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAQAAECAoGAAAIAAAAAgQAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>WWRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWAnimation">
+    <Position X="5.25" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gBWAAAQQEGCAoGAKAIBACABgQAAAAEAgIAQDIAAIAAA=</HashCode>
+      <FileName>WWRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWtimerUnit" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="7.75" Width="4.75" />
+    <NestedTypes>
+      <Delegate Name="WWEngineCC.WWtimerUnit.WWtimer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>WWTime.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAABAAgAAAACAEQAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WWTime.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WWEngineCC.WWTime">
+    <Position X="0.75" Y="2.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAQBQKAAAAEAACCBAQAAIgBQIAAAABIAhAAAAAAAAAA=</HashCode>
+      <FileName>WWTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.WWTransform">
+    <Position X="17.75" Y="6.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAAAAAACAAAACQAIACAAAAAAAAQAgAAAAAAAA=</HashCode>
+      <FileName>WWTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.Properties.Resources">
+    <Position X="6" Y="6.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAgAAAABIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWEngineCC.Properties.Settings">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WWsound.WWsound">
+    <Position X="5" Y="0.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAAIEQAAAAIAIIgEAEAAAAggIgBAI=</HashCode>
+      <FileName>WWsound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WWEngineCC.IWWScript">
+    <Position X="17.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIQAAAAAACAAAAAAAAAAAAAAAAAgAAAAABAAAAA=</HashCode>
+      <FileName>WWPluginCC.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="WWEngineCC.WWassetsType">
+    <Position X="17.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAggAgACAAAAAAAAAAABAAACAAAAAA=</HashCode>
+      <FileName>WWdefine.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
